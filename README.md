@@ -1,5 +1,4 @@
-# Olá, eu sou André! 👋 "DECO"
-
+# Olá, eu sou André! 👋 
 Bem-vindo ao meu repositório! Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas. Aqui você vai encontrar alguns dos meus projetos e contribuições em desenvolvimento, além de várias ideias em andamento.
 ##
 ![Gif de Exemplo](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b76112fpblfl2i4ko8sek408d6m4odmc4bt6c0umpnr1h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
