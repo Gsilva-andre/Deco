@@ -1,57 +1,45 @@
-# Olá, eu sou André! 👋 
-Bem-vindo ao meu repositório! Eu sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas. Aqui você vai encontrar alguns dos meus projetos e contribuições em desenvolvimento, além de várias ideias em andamento.
-##
-![Gif de Exemplo](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b76112fpblfl2i4ko8sek408d6m4odmc4bt6c0umpnr1h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-##
+# 👋 Olá! Eu sou o André  
 
-## Sobre mim
+💻 **Desenvolvedor em transição de carreira para TI**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC  
+🚀 Focado em **Python**, **JavaScript**, **Solidity** e tecnologias **Web3**  
+📍 Americana - SP | 🌐 Aberto a colaborações e oportunidades  
 
-- 👨‍💻 Desenvolvedor Python e entusiasta de programação.
-- 🎯 Meu objetivo é criar projetos inovadores e melhorar a experiência do usuário.
-- 🌱 Atualmente estou aprendendo mais sobre **Machine Learning**, **Desenvolvimento Web** e **Linguagens de Programação**.
-- 🚀 Gosto de compartilhar meus conhecimentos com a comunidade de código aberto e colaborar em projetos de interesse mútuo.
-- 📝 Estou estudando **Python** **HTML**
-- 🏫 Minha escola plataform Cousera -> **na fé e na coragem** ⚡⚡⚡
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Deco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+---
 
-##
-
-## Projetos
-
-Aqui estão alguns dos meus projetos principais:
-
-- 📖 Escala de Trabalho
-
-## Como me encontrar
-
- 
-<div> 
-    <a href = "mailto:andrelk1387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <div>
-  </div>
-      <a href = "https://wa.me/+5519995567586"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=flat&logo=whatsapp" target="_blank"></a>
-  
+## 🛠️ Tecnologias e Ferramentas  
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </div>
 
+---
 
+## 📌 Projetos em Destaque  
+- [**hora-do-dia**](https://github.com/Gsilva-andre/hora-do-dia) ⏰ — Script em JavaScript que exibe a hora atual com saudação dinâmica.  
+- [**meu-contrato-inteligente**](https://github.com/Gsilva-andre/meu-contrato-inteligente) 📜 — Contrato inteligente simples em Solidity para estudo.  
+- [**modificador**](https://github.com/Gsilva-andre/modificador) 🔐 — Contrato Solidity com modificadores de função.  
+- [**idade-perfil**](https://github.com/Gsilva-andre/idade-perfil) 📆 — Calculadora de idade a partir de data de nascimento.  
 
-## Contribuindo
+---
 
-Eu adoro contribuir para projetos open-source! Se você tiver ideias de colaboração ou quiser contribuir, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
-##
+## 📈 Estatísticas do GitHub  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsilva-andre&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilva-andre&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</div>
 
+---
 
-## Licença
+## 🌎 Onde me encontrar  
+📧 **Email:** andre.silva483@fatec.sp.gov.br  andreltk1387@gmail.com  
+💼 [**LinkedIn**] www.linkedin.com/in/andré-gomes-silva
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
-
-
-
-
+---
+✨ _Sempre aprendendo, sempre evoluindo._
