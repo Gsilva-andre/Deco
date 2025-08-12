@@ -23,7 +23,7 @@
 
 ## 📌 Projetos em Destaque  
 - [**hora-do-dia**](https://github.com/Gsilva-andre/hora-do-dia) ⏰ — Script em JavaScript que exibe a hora atual com saudação dinâmica.  
-- [**meu-contrato-inteligente**](https://github.com/Gsilva-andre/meu-contrato-inteligente) 📜 — Contrato inteligente simples em Solidity para estudo.  
+- [**meu-contrato-inteligente**](https://github.com/Gsilva-andre/meu-smart-contract) 📜 — Contrato inteligente simples em Solidity para estudo.  
 - [**modificador**](https://github.com/Gsilva-andre/modificador) 🔐 — Contrato Solidity com modificadores de função.  
 - [**idade-perfil**](https://github.com/Gsilva-andre/idade-perfil) 📆 — Calculadora de idade a partir de data de nascimento.  
 
